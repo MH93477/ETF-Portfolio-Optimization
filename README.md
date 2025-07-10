@@ -20,14 +20,15 @@ Monthly data from 5 sector ETFs + SPY benchmark + NDQ benchmark.
 
 ## 🚀 Portfolio Strategies Modeled
 
-| Portfolio Type        | Description                          |
-|-----------------------|--------------------------------------|
-| Port 1a               | Equal-weighted Portfolio             |
-| Port 1b               | Minimum Risk Portfolio               |
-| Port 1c               | Max Sharpe Ratio (no SPY)            |
-| Port 2a               | Max Return (SPY included)            |
-| Port 2b               | Min Risk (SPY included)              |
-| Port 2c ✅            | Max Sharpe Ratio (SPY included) ✅   |
+| Portfolio Type        | Description                               |
+|-----------------------|-------------------------------------------|
+| Port 1                |      Equal-weighted Portfolio             |
+| Port 1a               |      Max Return Portfolio                 |
+| Port 1b               |      Min Risk Portfolio                   |
+| Port 2                |  Equal-weighted Portfolio (SPY included)  |
+| Port 2a               |      Max Return (SPY included)            |
+| Port 2b               |      Min Risk (SPY included)              |
+| Port 2c ✅            |     Max Sharpe Ratio (SPY included) ✅   |
 
 ---
 
